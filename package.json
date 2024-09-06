@@ -1,6 +1,6 @@
 {
   "name": "node-docs-ko",
-  "version": "0.0.0",
+  "version": "beta",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
