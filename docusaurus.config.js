@@ -2,7 +2,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 const config = {
   title: 'Node.js Docs (Korean)',
-  tagline: 'Node.js 비공식 한국어 문서입니다.',
   favicon: 'img/logo-nodejs.svg',
   url: 'https://ndocko.netlify.app',
   baseUrl: '/',
