@@ -1,7 +1,7 @@
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
 
 html, body {
-  font-family: Pretendard;
+  font-family: "Noto Sans KR", Arial, Helvetica, sans-serif;
 }
 
 :root {

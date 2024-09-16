@@ -49,7 +49,11 @@ Node.js는 <a href="https://v8.dev/" target="_blank">V8 자바스크립트 엔�
         <th>안정성</th>
     </tr>
     <tr>
-        <td style={{backgroundColor: "var(--white)"}}>Assert</td>
+        <td style={{backgroundColor: "var(--white)", textDecoration: "underline"}}><a href="https://nodejs.org/docs/latest/api/assert.html" target="_blank">Assert</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td style={{backgroundColor: "var(--white)", textDecoration: "underline"}}><a href="https://nodejs.org/docs/latest/api/assert.html" target="_blank">Assert</a></td>
         <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
     </tr>
 </table>
