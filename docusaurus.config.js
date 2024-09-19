@@ -3,7 +3,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Node.js Docs (Korean)',
   favicon: 'img/logo-nodejs.svg',
-  url: 'https://ndocko.netlify.app',
+  url: 'https://ndocko.pages.dev',
   baseUrl: '/',
   i18n: {
     defaultLocale: 'ko',
@@ -44,7 +44,7 @@ const config = {
       navbar: {
         title: 'Node.js Docs (Korean)',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Node.js logo',
           src: 'img/logo-nodejs.svg',
         },
         items: [
@@ -63,10 +63,10 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
-            title: 'Community',
+            title: '커뮤니티',
             items: [
               {
                 label: 'Stack Overflow',
@@ -75,7 +75,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '링크',
             items: [
               {
                 label: 'Blog',

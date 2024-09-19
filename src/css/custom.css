@@ -78,3 +78,7 @@ html, body {
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+html[data-theme='dark'] .navbar .navbar__logo {
+  content: url("../../static/img/lightlogo-nodejs.svg");
+}
