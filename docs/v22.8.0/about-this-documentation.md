@@ -49,11 +49,31 @@ Node.js는 <a href="https://v8.dev/" target="_blank">V8 자바스크립트 엔�
         <th>안정성</th>
     </tr>
     <tr>
-        <td style={{textDecoration: "underline"}}><a href="https://nodejs.org/docs/latest/api/assert.html" target="_blank">Assert</a></td>
+        <td><a href="https://nodejs.org/docs/latest/api/assert.html" target="_blank">Assert</a></td>
         <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
     </tr>
     <tr>
-        <td style={{textDecoration: "underline"}}><a href="https://nodejs.org/docs/latest/api/assert.html" target="_blank">Assert</a></td>
+        <td><a href="https://nodejs.org/docs/latest/api/async_hooks.html" target="_blank">Async hooks</a></td>
+        <td style={{backgroundColor: "var(--red3)", color: "var(--white)"}}>(1) 실험적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/latest/api/async_context.html" target="_blank">Asynchronous context tracking</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/latest/api/buffer.html" target="_blank">Buffer</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/latest/api/child_process.html" target="_blank">Child process</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/latest/api/cluster.html" target="_blank">Cluster</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/latest/api/console.html" target="_blank">Console</a></td>
         <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
     </tr>
 </table>
