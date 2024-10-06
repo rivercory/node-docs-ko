@@ -49,31 +49,75 @@ Node.js는 <a href="https://v8.dev/" target="_blank">V8 자바스크립트 엔�
         <th>안정성</th>
     </tr>
     <tr>
-        <td><a href="https://nodejs.org/docs/latest/api/assert.html" target="_blank">Assert</a></td>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/assert.html" target="_blank">Assert</a></td>
         <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
     </tr>
     <tr>
-        <td><a href="https://nodejs.org/docs/latest/api/async_hooks.html" target="_blank">Async hooks</a></td>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/async_hooks.html" target="_blank">Async hooks</a></td>
         <td style={{backgroundColor: "var(--red3)", color: "var(--white)"}}>(1) 실험적</td>
     </tr>
     <tr>
-        <td><a href="https://nodejs.org/docs/latest/api/async_context.html" target="_blank">Asynchronous context tracking</a></td>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/async_context.html" target="_blank">Asynchronous context tracking</a></td>
         <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
     </tr>
     <tr>
-        <td><a href="https://nodejs.org/docs/latest/api/buffer.html" target="_blank">Buffer</a></td>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/buffer.html" target="_blank">Buffer</a></td>
         <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
     </tr>
     <tr>
-        <td><a href="https://nodejs.org/docs/latest/api/child_process.html" target="_blank">Child process</a></td>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/child_process.html" target="_blank">Child process</a></td>
         <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
     </tr>
     <tr>
-        <td><a href="https://nodejs.org/docs/latest/api/cluster.html" target="_blank">Cluster</a></td>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/cluster.html" target="_blank">Cluster</a></td>
         <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
     </tr>
     <tr>
-        <td><a href="https://nodejs.org/docs/latest/api/console.html" target="_blank">Console</a></td>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/console.html" target="_blank">Console</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/crypto.html" target="_blank">Crypto</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/diagnostics_channel.html" target="_blank">Diagnostics Channel</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/dns.html" target="_blank">DNS</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/domain.html" target="_blank">Domain</a></td>
+        <td style={{backgroundColor: "var(--red1)", color: "var(--white)"}}>(0) 사용 중단</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/fs.html" target="_blank">File system</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/http.html" target="_blank">HTTP</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/http2.html" target="_blank">HTTP/2</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/https.html" target="_blank">HTTPS</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/inspector.htmll" target="_blank">Inspector</a></td>
+        <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/inspector.html" target="_blank">Modules: node:module API</a></td>
+        <td style={{backgroundColor: "var(--red3)", color: "var(--white)"}}>(1).2 릴리스 후보</td>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/docs/v22.8.0/api/modules.html" target="_blank">Modules: CommonJS modules</a></td>
         <td style={{backgroundColor: "var(--green2)", color: "var(--white)"}}>(2) 안정적</td>
     </tr>
 </table>
