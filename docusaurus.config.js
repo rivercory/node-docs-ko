@@ -19,18 +19,6 @@ const config = {
           editUrl:
             'https://github.com/rivercory/node-docs-ko/tree/master/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          editUrl:
-            'https://github.com/rivercory/node-docs-ko/tree/master/',
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -54,7 +42,6 @@ const config = {
             position: 'left',
             label: '문서',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/rivercory/node-docs-ko',
             label: 'GitHub',
@@ -77,10 +64,6 @@ const config = {
           {
             title: '링크',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/rivercory/node-docs-ko',
